@@ -9,7 +9,7 @@
 
 int main(int argc, char *argv[]) {
   if (argv[1] == NULL) {
-    printf("No arguments provided. Try 'lc --help' for more information. Quitting.\n");
+    printf("No arguments provided. Try 'lc --help' for more information.\n");
     return 0;
   }
 
